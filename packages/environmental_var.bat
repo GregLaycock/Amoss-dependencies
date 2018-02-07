@@ -1,0 +1,1 @@
+setx PYTHONPATH C:\Users\Greg\Desktop\Sasol\dependencies\packages\safe-eliminations;C:\Users\Greg\Desktop\Sasol\dependencies\packages\sdopt-tearing
