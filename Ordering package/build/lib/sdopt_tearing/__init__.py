@@ -1,3 +1,0 @@
-""""
-an amoss dependency
-"""
