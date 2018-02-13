@@ -1,0 +1,2 @@
+Have moved fix_imports out of sd_optearing. move it back in or change the path to work. i want it outside in the end so it can run 1ce and work for both
+packages without being part of the packages themselves. 
