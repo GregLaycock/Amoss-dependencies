@@ -1,1 +1,3 @@
 C:\Users\Greg\Desktop\Sasol\dependencies\Ordering_package\build
+*.idea
+
